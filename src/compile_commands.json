@@ -1,0 +1,140 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c99",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O2",
+      "-I.",
+      "-I../../raylib/src",
+      "-I../../raylib/src/external",
+      "-I../../raylib/src/extras",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "raylib_game.o",
+      "raylib_game.c"
+    ],
+    "directory": "/Users/kenley/code/reVrost/spodumene/src",
+    "file": "/Users/kenley/code/reVrost/spodumene/src/raylib_game.c",
+    "output": "/Users/kenley/code/reVrost/spodumene/src/raylib_game.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c99",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O2",
+      "-I.",
+      "-I../../raylib/src",
+      "-I../../raylib/src/external",
+      "-I../../raylib/src/extras",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "screen_logo.o",
+      "screen_logo.c"
+    ],
+    "directory": "/Users/kenley/code/reVrost/spodumene/src",
+    "file": "/Users/kenley/code/reVrost/spodumene/src/screen_logo.c",
+    "output": "/Users/kenley/code/reVrost/spodumene/src/screen_logo.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c99",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O2",
+      "-I.",
+      "-I../../raylib/src",
+      "-I../../raylib/src/external",
+      "-I../../raylib/src/extras",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "screen_title.o",
+      "screen_title.c"
+    ],
+    "directory": "/Users/kenley/code/reVrost/spodumene/src",
+    "file": "/Users/kenley/code/reVrost/spodumene/src/screen_title.c",
+    "output": "/Users/kenley/code/reVrost/spodumene/src/screen_title.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c99",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O2",
+      "-I.",
+      "-I../../raylib/src",
+      "-I../../raylib/src/external",
+      "-I../../raylib/src/extras",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "screen_options.o",
+      "screen_options.c"
+    ],
+    "directory": "/Users/kenley/code/reVrost/spodumene/src",
+    "file": "/Users/kenley/code/reVrost/spodumene/src/screen_options.c",
+    "output": "/Users/kenley/code/reVrost/spodumene/src/screen_options.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c99",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O2",
+      "-I.",
+      "-I../../raylib/src",
+      "-I../../raylib/src/external",
+      "-I../../raylib/src/extras",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "screen_gameplay.o",
+      "screen_gameplay.c"
+    ],
+    "directory": "/Users/kenley/code/reVrost/spodumene/src",
+    "file": "/Users/kenley/code/reVrost/spodumene/src/screen_gameplay.c",
+    "output": "/Users/kenley/code/reVrost/spodumene/src/screen_gameplay.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c99",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O2",
+      "-I.",
+      "-I../../raylib/src",
+      "-I../../raylib/src/external",
+      "-I../../raylib/src/extras",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "screen_ending.o",
+      "screen_ending.c"
+    ],
+    "directory": "/Users/kenley/code/reVrost/spodumene/src",
+    "file": "/Users/kenley/code/reVrost/spodumene/src/screen_ending.c",
+    "output": "/Users/kenley/code/reVrost/spodumene/src/screen_ending.o"
+  }
+]
