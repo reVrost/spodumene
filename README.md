@@ -10,14 +10,19 @@ Better the world by developing infrastrucutre for critical minerals and renewabl
 
 - The parent folder `repo` should exist in the same directory as `raylib` itself. So your file structure should look like this:
   - Some parent directory
+    - `spodumene`
+      - this repo
     - `emsdk`
       - the contents of https://github.com/emscripten-core/emsdk
       - and follow the instruction to compile them [here](https://emscripten.org/docs/getting_started/downloads.html)
     - `raylib`
       - the contents of https://github.com/raysan5/raylib
       - run make all in src
-    - `spodumene`
-      - this repo
+
+### GOAL
+
+5 by 3 grid ( deck + 4 cards)
+6 coins layout
 
 ### Features
 
